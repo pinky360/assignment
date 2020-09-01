@@ -3,4 +3,42 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="orange">#f26925</color>
+    <color name="bottomHeader">#604b49</color>
+    <color name="yellow">#FBF056</color>
+    <color name="yellow_dark">#fbc037</color>
+    <color name="purple">#A093C8</color>
+    <color name="purple_dark">#8b4d8e</color>
+    <color name="pink_dark">#c93733</color>
+    <color name="sky_blue">#51BDBF</color>
+    <color name="sky_blue_dark">#439a9a</color>
+    <color name="green">#a9d04a</color>
+    <color name="slot2">#FF7828</color>
+    <color name="slot1">#E66C24</color>
+    <color name="dark_blue">#41abdf</color>
+    <color name="line">#2a2834</color>
+    <color name="cnf_book">#f2737f</color>
+
+    <color name="lightgray">#e7e7e7</color>
+    <color name="lightgray02">#bfbfbf</color>
+
+
+    <color name="bottom_tab_selected">#EECACD</color>
+    <color name="bottom_tab_unselected">#777779</color>
+    <color name="grey">#979797</color>
+    <color name="grey1">#e5e2e2</color>
+    <color name="pink1">#f77081</color>
+    <color name="blue1">#497fac</color>
+    <color name="purple1">#00337a</color>
+
+    <color name="drawer_selected_white">#f3f5f5</color>
+    <color name="drawer">#f6f8f8</color>
+
+    <color name="blue">#7FB1D1</color>
+    <color name="pink">#EECACD</color>
+
+
 </resources>
